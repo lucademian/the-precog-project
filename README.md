@@ -20,4 +20,5 @@ We found the conditional probability of a certain incident occuring (ie. homicid
 
 ### The Precog Project Front-End (Interactive Website)
 
-
+For the website, we used Svelte and JavaScript to create a front-end that allows users to input their demographic information and find out their probability of being affected by a police shooting or homicide. The website also allows users to compare their probability to the probability of the state they live in and the national average. This all updates automatically and is hosted
+as a static JS page.
