@@ -1,6 +1,9 @@
 # The Precog Project ReadMe
 By: Nicolai Jacobsen, Jake Friedman, Luca Demian, and Andre Kirby
 
+- [Link to Live Site](https://precog.lucademian.com)\
+- [Link to YouTube Video](https://www.youtube.com/watch?v=jYCjkUibLgM)
+
 ## Overview
 We first did exploratory data analysis on the datasets gathered, those being from Washington Post and US Census datasets. This allowed us to clean the data, and we could then calculate the probabilities of homicide based on gender, age, race, and location, as well as the likelihood of someone being affected by a police shooting (based on the same factors). This was done by creating a probability function that found the conditional probability of an incident given a set of attributes all of this aformentioned data science work was done in Python. This logic was then ported over to a JavaScript/svelte front-end that represents all this data and allows the users of the website to find out where they fall under according to their demographics and our calculated probabilities. 
 
